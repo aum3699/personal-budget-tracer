@@ -1,0 +1,6 @@
+# requirements.txt - Python dependencies for the budget tracker
+flask
+flask_sqlalchemy
+flask_wtf
+flask_login 
+gunicorn
